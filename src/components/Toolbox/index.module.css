@@ -25,4 +25,11 @@
             }
         }
     }
+
+    @media screen and (max-width: 640px) {
+        top: unset;
+        bottom: 0;
+        width: 100%;
+        left: 0;
+    }
 }
